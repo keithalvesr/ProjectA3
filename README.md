@@ -14,10 +14,5 @@ Com o Kumu, a organização de rotina se torna simples e agradável.
 <br/> -  <b>Cadastro de Usuários:</b>Permite que os usuários se cadastrem;
 <br/> -  <b>Cadastro de Tarefas Diárias:</b> Permite que o usuario cadastre uma tarefa;
 <br/> -  <b>Definição de prioridade por tarefa:</b> Capacidade de definir a prioridade da tarefa;
-<br/> -  <b>Editar definição de prioridade por tarefa:</b> Capacidade de editar a prioridade da tarefa;
-<br/> -  <b>Tarefas concluídas:</b> Permite aos usuários definir quais tarefas foram concluídas;
-<br/> -  <b>Editar Tarefa:</b> Permite aos usuários editar a tarefa;
-<br/> -  <b>Excluir tarefa:</b>Permite aos usuários excluir a tarefa cadastrada;
-<br/> -  <b>Editar usuário:</b> Permite aos usuários editar as informações cadastradas;
 <br/> -  <b>Listar tarefas concluídas:</b> Permite aos usuários listarem as tarefas concluídas;
 </p>
